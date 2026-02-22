@@ -1,4 +1,4 @@
-# Exercícios de Aquecimento — TypeScript, Node.js e CLI
+# Exercícios — TypeScript, Node.js e CLI
 
 Este projeto contém exercícios práticos para introdução ao **TypeScript**, execução com **Node.js**, organização de projetos no **VSCode** e desenvolvimento de scripts executados via linha de comando.
 
